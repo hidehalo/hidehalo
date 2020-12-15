@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/<hidehalo>/<hidehalo>/master/<GIF_NAME>.gif" width="30px">
+![hidehalo's github stats](https://github-readme-stats.vercel.app/api?username=hidehalo&count_private=true&show_icons=true)
+
+![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidehalo&hide=matlab,html,javascript)
+
 <!--
 **hidehalo/hidehalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
