@@ -12,6 +12,6 @@ I'm currently learning algorithm|database|Golang etc, doing some contribution in
 #### Find me
 ---
 
-- [E-mail](tianchen_cc@yeah.net)
+- <a href="mailto:tianchen_cc@yeah.net">E-mail</a>  
 - [Twitter](https://twitter.com/__hidehalo)
 - [Website](https://hidehalo.github.io)
